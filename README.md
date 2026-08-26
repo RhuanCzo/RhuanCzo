@@ -25,7 +25,7 @@ Me chamo Rhuan Silva Cardozo, tenho 18 anos e sou natural de São Paulo. Conclu�
 </div>
 
   ### 📊 Estatísticas
-<!--![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=RhuanCzo-mm&cc=222&tc=fff&ic=fff&bc=000)-->
+<!--![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=RhuanCzo&cc=222&tc=fff&ic=fff&bc=000)-->
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RhuanCzo-mm&bg_color=000000&title_color=a020f0&icon_color=a020f0&text_color=ffffff&border_color=a020f0&show_icons=true&include_all_commits=true&count_private=true" />
