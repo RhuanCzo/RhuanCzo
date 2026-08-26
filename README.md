@@ -1,4 +1,4 @@
-## Rhuan Cardozo
+##  👩🏻‍💻 Rhuan Cardozo
 
 **`Desenvolvedora FullStack`**
 
