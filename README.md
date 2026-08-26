@@ -4,14 +4,43 @@
 
 Me chamo Rhuan Silva Cardozo, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no IFSP, com o curso técnico em meio-ambiente e fiz um curso intensivo de desenvolvimento na "Driven". Atualmente. Sou apaixonado por tecnologia, crio projetos web, e soluções digitais para meus clientes.
 
+### 🔗 Contato
+
+<div> 
+  <a href = "mailto:dudamdemedeiros@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/eduarda-medeiros-4033b2333?trk=contact-info" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+  ##
+
+### 🤖 Linguagens e Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Duda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Duda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Duda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Duda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Duda-Vue" height="30" width="30" src="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F27%2Fvue-sticker.png">
+</div>
 <p align="left">
-<a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-   <img 
-       alt="youtube subscribers" 
-       title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscritos&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-   />
-</a>
-<br/>
-<br/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40">
+</p>
+
+  ##
+
+  ### 📊 Estatísticas
+<!--![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=duda-mm&cc=222&tc=fff&ic=fff&bc=000)-->
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=duda-mm&bg_color=000000&title_color=a020f0&icon_color=a020f0&text_color=ffffff&border_color=a020f0&show_icons=true&include_all_commits=true&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="1000" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=duda-mm&layout=compact&bg_color=000000&title_color=a020f0&text_color=ffffff&border_color=a020f0" />
+</p>
