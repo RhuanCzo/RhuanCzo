@@ -1,6 +1,6 @@
 ##  👩🏻‍💻 Rhuan Cardozo
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Rhuan Silva Cardozo, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no IFSP, com o curso técnico em meio-ambiente e fiz um curso intensivo de desenvolvimento na "Driven". Sou apaixonado por tecnologia, crio projetos web, e soluções digitais para meus clientes.
 
